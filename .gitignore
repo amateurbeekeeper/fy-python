@@ -1,0 +1,35 @@
+# Compiled Python files
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Dependency directories
+lib/
+libs/
+lib64/
+dist/
+build/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+*.log
+
+# Other
+*.pydevproject
+*.db
+*.sqlite3
+*.DS_Store
+*.bak
+*.swp
